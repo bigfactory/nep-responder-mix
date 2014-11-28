@@ -1,0 +1,19 @@
+{
+  "name": "nep-responder-mix",
+  "version": "0.0.1",
+  "description": "mix responder for nep",
+  "main": "index.js",
+  "author": {
+    "name": "hxc",
+    "email": "xiaocong.hxc@qq.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bigfactory/nep-responder-mix.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "async": "^0.9.0",
+    "mime": "^1.2.11"
+  }
+}
